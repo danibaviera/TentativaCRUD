@@ -3,6 +3,7 @@
 CRUD (Create, Read, Update, Delete) para um modelo de "Stock" utilizando Express e Mongoose
 
 **Create**
+
 A rota POST /analise cria um novo registro de análise no banco de dados.
 
 app.post('/analise', async (req, res) => {
